@@ -5,7 +5,7 @@ Built my own custom Wear OS terminal watch face because I refused to pay a dolla
 
 💬 Support
 
-Running into an issue? Message me on Reddit: u/LuciiEditzz
+Running into an issue? Message me on Reddit: [u/LuciiEditzz](https://www.reddit.com/user/LuciiEditzz/)
 
 **#Watch Face on my watch at the end **
 
